@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The purpose of the project was to have an introduction to React and connect it to the server created with project MVCAppAssignment2 (https://github.com/Krejstrup/MVCAppAssignment2). The server app has been modified to serve as server to this project in Master, the first versions of the MVCAppAssignment2 was a standalone webapplication for People and database handeler for people.
 
 ## Available Scripts
 
